@@ -1,4 +1,4 @@
-import observe from "./generators/observe";
+import observe from "./generators/observe.js";
 
 var inset = 28;
 
