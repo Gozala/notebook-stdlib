@@ -1,4 +1,4 @@
-import MarkdownIt from "../../../markdown-it.gozala.io/lib/index.js"
+import MarkdownIt from "../../../markdown-it/lib/index.js"
 import template from "./template.js"
 import highlight from "../../../highlightjs.org/highlight.pack.js"
 
