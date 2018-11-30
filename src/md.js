@@ -1,6 +1,6 @@
 import MarkdownIt from "../../../markdown-it.gozala.io/lib/index.js"
 import template from "./template.js"
-import highlight from "../../../highlightjs.org/lib.js"
+import highlight from "../../../highlightjs.org/highlight.pack.js"
 
 const markdownIt = new MarkdownIt({
   highlight(code, lang) {
